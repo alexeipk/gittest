@@ -1,0 +1,20 @@
+[33mcommit 1cd51869be5161029fef4da44f03b3bba7ff7938[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: alexeipk <alexeipk@gmail.com>
+Date:   Sat Feb 5 10:30:09 2022 +0000
+
+    updated main
+
+[1mdiff --git a/main.c b/main.c[m
+[1mindex 1730e40..0b20cc0 100644[m
+[1m--- a/main.c[m
+[1m+++ b/main.c[m
+[36m@@ -22,7 +22,7 @@[m [mint main(int arc, char* argv[])[m
+         printf("%d ", i);[m
+         fflush(stdout);[m
+     }[m
+[31m-    printf("\n");[m
+[32m+[m[32m    printf("\n\n");[m[41m[m
+ [m
+     return 0;[m
+ }[m
+\ No newline at end of file[m
