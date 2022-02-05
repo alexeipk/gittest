@@ -1,1 +1,1 @@
-echo "oi" oi
+echo "oi" oi cx
