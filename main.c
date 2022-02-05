@@ -22,7 +22,7 @@ int main(int arc, char* argv[])
         printf("%d ", i);
         fflush(stdout);
     }
-    printf("\n");
+    printf("\n\n");
 
     return 0;
 }
